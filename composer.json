@@ -1,5 +1,5 @@
 {
-    "name": "helios-ag/fm-elfinder-bundle",
+    "name": "skwi/fm-elfinder-bundle",
     "description": "ElFinder bundle, adds ElFinder file manager to your Symfony project",
     "keywords": ["elfinder","file manager","wysiwyg"],
     "type": "symfony-bundle",
@@ -24,7 +24,7 @@
         "symfony/twig-bundle":                 "~2.4|~3.0",
         "symfony/form":                        "~2.4|~3.0",
         "helios-ag/fm-elfinder-php-connector": "~2.5",
-        "skwi/elfinder-component":             "~2.1",
+        "skwi/elfinder-component":             "~2.2",
         "robloach/component-installer":        "~0.2"
     },
     "require-dev" : {
