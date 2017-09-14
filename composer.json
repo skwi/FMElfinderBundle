@@ -24,7 +24,7 @@
         "symfony/twig-bundle":                 "~2.4|~3.0",
         "symfony/form":                        "~2.4|~3.0",
         "helios-ag/fm-elfinder-php-connector": "~2.5",
-        "skwi/elfinder-component":             "~2.2",
+        "skwi/elfinder":                       "~2.2.3",
         "robloach/component-installer":        "~0.2"
     },
     "require-dev" : {
